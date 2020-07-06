@@ -1,0 +1,8 @@
+Hello World 
+<<<<<<< HEAD
+There is a change to keep this change
+There is another make a change here 
+=======
+There is a change to something 
+There is another change to line 2
+>>>>>>> feature-1
